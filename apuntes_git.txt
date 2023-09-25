@@ -1,0 +1,3 @@
+git init
+git add . # agregar archivos al index
+git rm --cached <archivo> # sacar del index stage
