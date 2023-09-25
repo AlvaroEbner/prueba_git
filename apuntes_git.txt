@@ -1,6 +1,16 @@
-git init
-git add . # agregar archivos al index
-git rm --cached <archivo> # sacar del index stage
+- git init
+- git add . # agregar archivos al index
+- git rm --cached <archivo> # sacar del index stage
 
-git commit -m "comentario"
+- git commit -m "comentario"
+
+Eliminar Archivo del head/index
+- git add -u
+
+Git renmoto
+- git remote add <nombre> <url>
+- git remote -v  (fetch recibir/push enviar)
+- git pull (importar cambios)
+- git push (enviar cambios)
+
 
