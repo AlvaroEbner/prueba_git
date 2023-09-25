@@ -13,4 +13,6 @@ Git renmoto
 - git pull (importar cambios)
 - git push (enviar cambios)
 
+- Esto fue cambiado en github para pull
+
 
